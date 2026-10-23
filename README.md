@@ -4,5 +4,5 @@ This repository contains my personal collection of algorithmic solutions and dat
 
 ## 📊 Summary
 * **Languages:** C++17 / C++20, Python 3
-* **Platforms:** Codeforces, Virtual Judge (VJudge), MarisaOJ
+* **Platforms:** Codeforces, Virtual Judge (VJudge), MarisaOJ,....
 * **Core Topics:** Graph Theory, Dynamic Programming, Advanced Data Structures (Segment Tree, BIT), String Algorithms
